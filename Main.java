@@ -196,7 +196,7 @@ public class Main {
 
             // Fungsi untuk melakukan opsi yang hanya tersedia untuk admin
             if (currentUser instanceof Admin) {
-                System.out.println("Transaksi Khusus Admin ");
+                System.out.println("7. Transaksi Khusus Admin ");
             }
 
             System.out.print("Pilih Opsi: ");
